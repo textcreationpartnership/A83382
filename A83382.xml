@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A petition sent to His Maiesty from both Houses of Parliament for accommodation. As also, the names of the lords and knights which delivered the said petition unto His Majestie. With a letter from His Majestie, dated the fourth of this instant moneth, directed to the speaker of the House of Peers, in answer to the said petition. With the Houses protestation against the said letter.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83382</idno><idno type="EEBO-CITATION">99859888</idno>
+  <idno type="VID">111990</idno>
+  <idno type="EEBO-PROQUEST">2240877656</idno>
+  
+            <idno type="STC">Wing E2182</idno>
+            <idno type="STC">Thomason E126_25</idno>
+            <idno type="STC">ESTC R15572</idno>
+            <idno type="PROQUEST">99859888</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99859888e"/>
+            <note>(EEBO-TCP ; phase 2, no. A83382)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111990)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 22:E126[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A petition sent to His Maiesty from both Houses of Parliament for accommodation. As also, the names of the lords and knights which delivered the said petition unto His Majestie. With a letter from His Majestie, dated the fourth of this instant moneth, directed to the speaker of the House of Peers, in answer to the said petition. With the Houses protestation against the said letter.</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho: Banks,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Novemb. 8. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111990:1"/>
+            <pb facs="tcp:111990:1"/>
+            <p> A PETITION SENT To His Maiesty <hi>From both Houses of PARLIAMENT</hi> For ACCOMMODATION.</p>
+            <p>AS ALSO, <hi>The Names of the Lords and Knights which delivered the said Petition unto His Majestie.</hi>
+            </p>
+            <p>WITH A LETTER From His Majestie, dated the fourth of this instant Moneth, directed to the <hi>Speaker</hi> of the House of Peers, in Answer to the said Petition.</p>
+            <p>
+               <hi>With the Houses Protestation against the said LETTER.</hi>
+            </p>
+            <p>LONDON: Printed for <hi>Tho: Banks. Novemb. 8.</hi> 1642.</p>
+            <pb facs="tcp:111990:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb n="3" facs="tcp:111990:2"/>
+            <head>A PETITION SENT To His Maiesty <hi>From both Houses of PARLIAMENT</hi> For ACCOMMODATION.</head>
+            <p>
+               <seg rend="decorInit">A</seg>T a Conference betwixt both Houses, it was delivered by the Lords, That they had lately a Consultation in their House, once more by way of Petition to move His Majesty for an Accommodation, and that be<g ref="char:EOLhyphen"/>fore they would conclude any thing concerning it, they had sent to the Lord Generall, to crave his advice and assistance in it; and that the Lord Generall had returned them an Answer, That for his part he did most gladly im<g ref="char:EOLhyphen"/>braee
+<pb n="4" facs="tcp:111990:3"/> the Proposition for an Accommodation between His Majesty and His Parliament, provided it were done such a way, that Religion might be setled, and Priviledge of Parliament, and Liberty of the Subject; and that Delinquents might bee brought to condigne punishment. Whereupon the Lords moved the Com<g ref="char:EOLhyphen"/>mons, that they would joyne with them in the same, and that the matter might bee referred to the Com<g ref="char:EOLhyphen"/>mittee for the State of the Kingdom to consider of, to which the Commons agreed.</p>
+            <p>A Petition being drawn up by the Lords to be sent to His Majesty, concerning the former motion for Ac<g ref="char:EOLhyphen"/>commodation, which Petition was read at a conference of both Houses, the effect whereof was, that both Houses of Parliament into their tender commiseration of the distractions of this Kingdom and great losse which his Majesty hath sustained in the late fight at Kineton by the death of so many eminent persons and great numbers of his Subjects of this Kingdom, whereby his Majesties power and greatnesse is much weakned and diminished, and the Kingdom impoverished by reason of this present War, and taking into consideration the great danger of his Majesties person in that fight, and greater hazard of his person and safety, if they should goe on to a second fight, and being very tender of the shedding of blood, do humbly offer to his Majesty that he would be pleased to appoint a certain and convenient place neer London▪ where a Committee of both Houses of Parliament may have free accesse to his Majesty to treate with him of such Propositions as may tend to the setling of the great di<g ref="char:EOLhyphen"/>stractions of the Kingdom, and differences between his
+<pb n="5" facs="tcp:111990:3"/> Majesty and Parliament, and that the said Committee may have free accesse to his Majesty, and safe conduct backwards and forwards.</p>
+            <p>To which Petition the Commons declared their as<g ref="char:EOLhyphen"/>sent with the Lords, and it was ordered that a speedy course should be taken to send the same to his Majesty. And they appointed the Earl of Northumberland, the Earl of Pembrook, of the H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>use of Peers, the Lord <hi>Windham</hi> and Sir <hi>John Eveling</hi> of the House of Com<g ref="char:EOLhyphen"/>mons, to carry the same to his Majesty. But in the first place, they ordered that Sir <hi>Peter Killegrey</hi> should go to his Majesty with a Trumpeter and sound a parley, desiring to know whether his Majesty would be plea<g ref="char:EOLhyphen"/>sed to accept of a Petition from the Houses, and give free accesse and safe conduct to those that should bring the same, the said Sir <hi>Peter Killegrey</hi> being sent away post that night.</p>
+            <p>Sir <hi>Peter Killegrey</hi> being returned from his Majesty, brought a Letter from Secretary <hi>Nicholas</hi> directed to the Speaker of the House of Peers, dated the fourth of this instant month; In which Letter the Secretary wri<g ref="char:EOLhyphen"/>teth, That his Majesty hath commanded him to informe the Houses that his eares shall be most willingly open to any Petition that shall come to him from his Houses of Parliament; and will give safe conduct and free ac<g ref="char:EOLhyphen"/>cesse to any that shall bring the same, provided they be none of those whom his Majesty by name hath proclai<g ref="char:EOLhyphen"/>med Traitors, and that their number do not exceed thirty.</p>
+            <p>Upon this Letter, the Houses had a great debate, and the Commons agreed in a vote or protestation, a<g ref="char:EOLhyphen"/>gainst the said Letter, that they could not admit of any
+<pb n="6" facs="tcp:111990:4"/> such exceptions against their members, as being a great breach of the Priviledge of Parliament, and liberty of the Subject; And they therefore Ordered that the Com<g ref="char:EOLhyphen"/>mittee for the safety of the Kingdom, should forthwith take into consideration what is fitting to be done up<g ref="char:EOLhyphen"/>on it.</p>
+            <p>And afterwards upon further debate and consultati<g ref="char:EOLhyphen"/>on concerning it, it was at length put to the question, and voted by the Commons, and consented unto by the Lords, that they would appoint no other of their Members to carry the Petition to the King, but those they had before nominated, and that there should be a<g ref="char:EOLhyphen"/>nother messenger sent to his Majesty to know whether he would be pleased to receive the Petition from their hands, and grant them free and safe conduct.</p>
+            <p>It was informed the houses that Prince <hi>Robert</hi> had plundered Master <hi>Whitlocks</hi> house at Henley, brake downe his Parke, and pillaged all his tenants, and for no cause, but that Master <hi>Whitlock</hi> is a Parliament-man.</p>
+            <p>That they have also been at Redding, and in which Town there was such a party of Malignants, that the Towns-men plundered one anorher.</p>
+            <p>It was informed the Parliament that one Master <hi>Stu<g ref="char:EOLhyphen"/>art</hi> in Drury lane refused to lend or give any thing to the propositions, alledging poverty and want of means, but since his house being searcht, there was 3600 pound found there, which by order of the house is to be sent to Guild-Hall.</p>
+            <p>Ordered that the Committee for the Navy, imploy two ships to scoure and guard the Thames.</p>
+            <p>An Order was made that all Papists in and about
+<pb n="7" facs="tcp:111990:4"/> London do forthwith depart the City, or that else they shall forfeit their Estates.</p>
+            <p>An order was made that a Committee of the House of Commons be appointed to take Order for the de<g ref="char:EOLhyphen"/>mollishing of all the Popish Ceremonies at Somerset<g ref="char:EOLhyphen"/>house, and the banishing of the Capouchin Fryers out of this Kingdom.</p>
+            <p>The Commons then also delivered to the Lords a Declaration, which had passed their House to be sent into Scotland, to informe them of the present condi<g ref="char:EOLhyphen"/>tion of things here, and to invite the Scots that ac<g ref="char:EOLhyphen"/>cording to the Act of Pacification they would raise considerable Forces in their Kingdom, to assist us in these times of imminent danger, and to defend them<g ref="char:EOLhyphen"/>selves against the Prelaticall party and Clergy, that re<g ref="char:EOLhyphen"/>solve to hinder the Reformation of Religion in both Kingdoms; which Declaration the Lords promised to take into consideration with all conveniency.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
